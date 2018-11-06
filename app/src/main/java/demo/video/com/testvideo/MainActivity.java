@@ -37,6 +37,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void haha4(View view){
-        startActivity(new Intent(this,Four.class));
+        startActivity(new Intent(this,OpenCamera.class));
     }
 }

@@ -15,6 +15,14 @@ import android.view.View;
 public class Four extends AppCompatActivity {
 
 
+    /***
+     *
+     *        安卓中的面板选择
+     *
+     * @param savedInstanceState
+     */
+
+
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
